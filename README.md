@@ -1,0 +1,1 @@
+Post Management System (CRUD) – Built a full-stack CRUD web app using React.js, JavaScript, and Vite that integrates with the JSONPlaceholder REST API to create, view, update, and delete posts. Features reusable components, responsive UI design, and real-time API calls — demonstrating practical REST API integration and component-based architecture.
